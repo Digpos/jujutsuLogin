@@ -1,2 +1,2 @@
-# jujutsuLogin
+#jujutsuLogin
 Jujutsu Kaisen themed static login
